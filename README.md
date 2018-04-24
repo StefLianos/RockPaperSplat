@@ -1,9 +1,6 @@
 # RockPaperSplat
 Inspired by Ink and other several other party games as well as the classic game of rock-paper-scissors. We set out to make a more fun and engaging version of RPS!
 
-## How it looks
-
-
 ## How to play
 The goal of the game is to eliminate your opponents by running into them in the corresponding form. There are three forms, Rock, Paper and Scissor and they matchup exactly like the Rock Paper Scissor Game. There also dsifferent powerups that will spawn that have different effects !
 
